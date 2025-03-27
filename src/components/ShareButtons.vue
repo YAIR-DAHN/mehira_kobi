@@ -68,7 +68,7 @@ export default {
     },
     url: {
       type: String,
-      default: 'https://mehira-bet-el.vercel.app/'
+      default: 'https://torat-hesed.vercel.app/'
     },
     size: {
       type: String,
