@@ -207,7 +207,7 @@ export default {
       error: null,
       success: null,
       // החלף את ה-URL הזה עם ה-URL של ה-Web App שלך מ-Google Apps Script
-      GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbzxphlsqy5rO6WFvmwy1VDxrLXx8e_ocOgdqb3CJkK704FbQmG_uYqY3pdBgOPH8O3YsQ/exec'
+      GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbz31dChvFaw-flkDxZ0Y5rCuQawRF77LmxsgSxz1zQtu0vyCUcdxR3jKO4SyHt_RTa4pw/exec'
     }
   },
   methods: {
