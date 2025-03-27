@@ -68,7 +68,7 @@ export default {
     },
     url: {
       type: String,
-      default: () => window.location.href
+      default: 'https://torat-hesed.vercel.app/'
     },
     size: {
       type: String,
