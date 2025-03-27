@@ -59,7 +59,7 @@
         </div>
         <div class="card mb-8" >
           <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center" >תרמו עכשיו לקמחא דפסחא</h2>
-          <p class="text-gray-600 mb-6 text-center">התרומות מוכרות לצורכי מס לפי סעיף 46</p>
+          <!-- <p class="text-gray-600 mb-6 text-center">התרומות מוכרות לצורכי מס לפי סעיף 46</p> -->
           
           <div v-if="!showIframe" class="max-w-lg mx-auto">
             <form @submit.prevent="startDonation" class="space-y-6">
