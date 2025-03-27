@@ -68,7 +68,7 @@ export default {
     },
     url: {
       type: String,
-      default: 'https://torat-hesed.vercel.app/'
+      default: () => window.location.href
     },
     size: {
       type: String,
@@ -89,7 +89,7 @@ export default {
   },
   methods: {
     shareOnWhatsapp() {
-      const encodedText = encodeURIComponent(`${this.text} ${this.url}`);
+      const encodedText = encodeURIComponent(`${this.text}\n\n${this.url}`);
       window.open(`https://wa.me/?text=${encodedText}`, '_blank');
     },
     shareOnFacebook() {

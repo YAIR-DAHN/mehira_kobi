@@ -55,7 +55,7 @@
                 <span class="text-2xl font-bold text-primary-600">2</span>
               </div>
               <h3 class="text-xl font-bold text-gray-800 mb-2">מינוי הרב</h3>
-              <p class="text-gray-600">הרב יוסף שמעון פרטוש שליט"א ימונה כשליח למכירת החמץ</p>
+              <p class="text-gray-600">הרב אברהם זכותא שליט"א ימונה כשליח למכירת החמץ</p>
             </div>
             <div class="text-center transform hover:scale-105 transition-transform duration-300">
               <div class="bg-primary-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 shadow-md">

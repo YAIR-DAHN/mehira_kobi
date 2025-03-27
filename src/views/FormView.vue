@@ -100,7 +100,7 @@
             <div class="space-y-4">
               <div class="bg-primary-50 border-r-4 border-primary-500 p-4 rounded-lg">
                 <p class="text-gray-700 leading-relaxed">
-                  אני הח"מ נותן כוח ורשות להרב יוסף שמעון פרטוש שליט"א ועושה אותו שליח ומורשה במקומי לעשות מכירת חמץ לכל מיני חמץ ותערובות חמץ שלי ביום יד' ניסן תשפ"ה. ניתן לראות את נוסח השליחות המלא בהמשך הטופס
+                  אני הח"מ נותן כוח ורשות להרב אברהם זכותא שליט"א ועושה אותו שליח ומורשה במקומי לעשות מכירת חמץ לכל מיני חמץ ותערובות חמץ שלי ביום יד' ניסן תשפ"ה. ניתן לראות את נוסח השליחות המלא בהמשך הטופס
                 </p>
               </div>
               <div class="flex items-start bg-gray-50 p-3 rounded-lg border border-gray-200">
@@ -207,7 +207,7 @@ export default {
       error: null,
       success: null,
       // החלף את ה-URL הזה עם ה-URL של ה-Web App שלך מ-Google Apps Script
-      GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxlbeRrsbFPoCzE4dFyBMnOL9UeMVXZljoLelNrIt82qRS0EJDF5h0m6XChBoAKAXzC/exec'
+      GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbzxphlsqy5rO6WFvmwy1VDxrLXx8e_ocOgdqb3CJkK704FbQmG_uYqY3pdBgOPH8O3YsQ/exec'
     }
   },
   methods: {
