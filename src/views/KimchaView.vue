@@ -391,8 +391,8 @@ export default {
       showIframe: false,
       iframeLoaded: false,
       nedarimConfiguration: {
-        Mosad: '7014426',         // מזהה מוסד בנדרים פלוס
-        ApiValid: '/9SYDSqvxU',   // מפתח אימות
+        Mosad: '7017464',         // מזהה מוסד בנדרים פלוס
+        ApiValid: 'k4AWSfdOVq',   // מפתח אימות
         Currency: '1',            // 1 = שקל, 2 = דולר
         PaymentType: 'Ragil',     // סוג תשלום: Ragil = עסקה רגילה
       },
